@@ -1,0 +1,52 @@
+.station {
+    margin: 10px;
+}
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+/* .main{
+    display: flex;
+} */
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.box1 {
+    background-color: #141f40;
+    width: 400px;
+    height: 100px;
+}
+.box2g {
+    background-color: #80bfa8;
+    width: 150px;
+    height: 250px;
+}
+.box2y {
+    background-color: #dbd400;
+    width: 150px;
+    height: 50px;
+}
+.box2b {
+    background-color: #0093b7;
+    width: 150px;
+    height: 100px;
+}
+.box2p {
+    background-color: #ff9e6b;
+    width: 100px;
+    height: 150px;
+}
+.box2w {
+    background-color: #8c2727;
+    width: 250px;
+    height: 100px;
+}
+.box3 {
+    background-color: #d98d30;
+    width: 400px;
+    height: 100px;
+}
